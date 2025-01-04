@@ -1,82 +1,128 @@
-# Hi 👋, I'm Abhishek Kumar
+## Hi, I Like creating websites. Nice to meet you!!!!
 
-### 🚀 Java Full Stack Developer | Eager Learner | Technology Enthusiast
 
----
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
-## 🌟 About Me
-I am a passionate developer with expertise in core Java programming, Spring Boot, React.js, and microservices architecture. With hands-on experience in building responsive web applications and intelligent systems, I aim to deliver high-quality, scalable solutions that drive user satisfaction and organizational efficiency.
+```rust
+fn main() {
+    let name = ' Abhishek Kumar';
+    let acknowledgements = 'Full Stack Developer';
+    let location = 'Hyderabad , India.';
+}
+```
+<br>
+ <div>
+  <a href="https://github.com/abhirazz123">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirazz123&layout=compact&langs_count=16&theme=dracula"/>
+   
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhirazz123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+ 
 
----
+##
+<div align="center">
+<a href="https://www.linkedin.com/in/abhirazz323/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+</a>
+ 
+<a href="abhishekkumar323@gmail.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+</a>
+</div>
 
-## 📚 Education
-- **B.Tech in Computer Science and Engineering**  
-  Dr. M.G.R Educational and Research Institute, Chennai  
 
----
+###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishadubey30&label=Profile%20views&color=0e75b6&style=flat" alt="ishadubey30" /> </p>
+<!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c3/df/eb/c3dfeb977477e5db6442f102d7b3cba6.gif">
+ -->
+- 🌱 I’m currently learning **Svelte , next.js and back-end development**
 
-## 🔧 Technical Skills
-- **Programming Languages**: Core Java, C  
-- **Web Technologies**: HTML, CSS, JavaScript, React.js   
-- **Database Management**: Oracle, MySQL  
-- **Other Tools**: Microsoft Azure, DS (Data Structures)
+- 💬 Ask me about: **Front-end , java , SQL**
 
----
+- 📫 Reach me at ** abhishekkumar323@gmail.com**
 
-## 💼 Internships
-### Digital EPCS | August 2023 - September 2023  
-- Collaborated on developing an e-commerce website.  
-- Cloned popular platforms like Flipkart and Meesho to enhance understanding of web functionality.  
+- ⚡ Fun fact About me- **I think I am the lamest in group of Five.**
 
----
 
-## 🏆 Projects
-### Traffic Control System Using Vehicle Counting  
-**Duration**: December 2023 - April 2024  
-**Technologies**: Python, OpenCV, YOLO  
-- Designed and implemented an intelligent traffic control system utilizing vehicle detection and counting technology.  
-- Leveraged Python and OpenCV for real-time object detection and optimized traffic flow.  
+###
 
-### Hostel Management System  
-**Duration**: February 2023 - November 2023  
-**Technologies**: HTML, CSS, JavaScript, MySQL  
-- Developed a responsive web application with user authentication and role-based access.  
-- Enhanced user experience by reducing page load times and ensuring cross-browser compatibility.  
+<br clear="both">
 
----
+<h3 align="left">🛠 Language and tools</h3>
 
-## 📜 Certifications
-- Microsoft Azure Fundamentals  
-- Java (Basic) Certificate  
-- SQL (Intermediate) Certificate  
+###
 
----
+<br clear="both">
 
-## 🌍 Languages Known
-- **English**: Fluent (Reading, Writing, Speaking)  
-- **Hindi**: Fluent (Reading, Writing, Speaking)  
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="safari logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo" />
+</div>
 
----
+###
 
-## 🏅 Achievements
-- Demonstrated leadership qualities during B.Tech program.  
+<br clear="both">
 
----
+###
 
-## 🤝 Connect with Me
-- 📧 **Email**: [abhishekrazz323@gmail.com](mailto:abhishekrazz323@gmail.com)  
-- 💼 **LinkedIn**: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-b8732b215)  
-- 💻 **GitHub**: [github.com/abhirazz123](https://github.com/abhirazz123)  
 
----
+  
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhirazz123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhirazz123&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirazz123" alt="GitHub Streak Stats" />
-</p>
+
