@@ -17,8 +17,7 @@ I am a passionate developer with expertise in core Java programming, Spring Boot
 
 ## 🔧 Technical Skills
 - **Programming Languages**: Core Java, C  
-- **Web Technologies**: HTML, CSS, JavaScript, React.js  
-- **Frameworks**: Spring, Spring Boot, Microservices  
+- **Web Technologies**: HTML, CSS, JavaScript, React.js   
 - **Database Management**: Oracle, MySQL  
 - **Other Tools**: Microsoft Azure, DS (Data Structures)
 
